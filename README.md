@@ -1,14 +1,14 @@
 <picture>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:0A66C2&height=220&section=header&text=Erick%20Silva%20Ramos%20da%20Paz&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" alt="header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1F6FEB&height=220&section=header&text=Erick%20Silva%20Ramos%20da%20Paz&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" alt="header banner" />
 </picture>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Building+AI+Agents+%26+Intelligent+Solutions;Business+Process+Automation;Generative+AI+%7C+LLMs+%7C+AI+Workflows;Always+learning%2C+always+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1F6FEB&center=true&vCenter=true&width=600&lines=Building+AI+Agents+%26+Intelligent+Solutions;Business+Process+Automation;Generative+AI+%7C+LLMs+%7C+AI+Workflows;Always+learning%2C+always+building" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/📍-São_Paulo,_Brazil-0A66C2?style=flat-square" />
-  <img src="https://komarev.com/ghpvc/?username=Erickaocode&style=flat-square&color=8A2BE2&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=Erickaocode&style=flat-square&color=1F6FEB&label=Profile+Views" />
 </p>
 
 <p align="center">
@@ -35,14 +35,14 @@ I'm an **Artificial Intelligence Engineer** and **Full Stack Developer**, passio
 ## 🤖 Artificial Intelligence
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-Generative%20AI-8A2BE2?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Machine%20Learning-8A2BE2?style=flat-square" />
-  <img src="https://img.shields.io/badge/-LLMs-8A2BE2?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Prompt%20Engineering-8A2BE2?style=flat-square" />
-  <img src="https://img.shields.io/badge/-AI%20Agents-8A2BE2?style=flat-square" />
-  <img src="https://img.shields.io/badge/-AI%20Automation-8A2BE2?style=flat-square" />
-  <img src="https://img.shields.io/badge/-AI%20Workflows-8A2BE2?style=flat-square" />
-  <img src="https://img.shields.io/badge/-NLP-8A2BE2?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Generative%20AI-1F6FEB?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Machine%20Learning-1F6FEB?style=flat-square" />
+  <img src="https://img.shields.io/badge/-LLMs-1F6FEB?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Prompt%20Engineering-1F6FEB?style=flat-square" />
+  <img src="https://img.shields.io/badge/-AI%20Agents-1F6FEB?style=flat-square" />
+  <img src="https://img.shields.io/badge/-AI%20Automation-1F6FEB?style=flat-square" />
+  <img src="https://img.shields.io/badge/-AI%20Workflows-1F6FEB?style=flat-square" />
+  <img src="https://img.shields.io/badge/-NLP-1F6FEB?style=flat-square" />
   <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
   <img src="https://img.shields.io/badge/-Ollama-000000?style=flat-square" />
   <img src="https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
@@ -132,8 +132,8 @@ I'm an **Artificial Intelligence Engineer** and **Full Stack Developer**, passio
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Erickaocode&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Erickaocode&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="42%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Erickaocode&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Erickaocode&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="42%" />
 </p>
 
 <p align="center">
@@ -147,7 +147,7 @@ I'm an **Artificial Intelligence Engineer** and **Full Stack Developer**, passio
 <br/>
 
 <picture>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:8A2BE2&height=120&section=footer" alt="footer banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:000000&height=120&section=footer" alt="footer banner" />
 </picture>
 
 <p align="center"><i>⭐ Always learning, building and innovating with Artificial Intelligence.</i></p>
