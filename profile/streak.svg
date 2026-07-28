@@ -44,7 +44,7 @@
             <g style='isolation: isolate'>
                 <!-- Current Streak label -->
                 <g transform='translate(247.5, 108)'>
-                    <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#ffa500' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='700' font-size='14px' font-style='normal' style='opacity: 1; opacity: 1;'>
+                    <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#1f6feb' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='700' font-size='14px' font-style='normal' style='opacity: 1; opacity: 1;'>
                         Current Streak
                     </text>
                 </g>
@@ -58,7 +58,7 @@
 
                 <!-- Ring around number -->
                 <g mask='url(#mask_out_ring_behind_fire)'>
-                    <circle cx='247.5' cy='71' r='40' fill='none' stroke='#ffa500' stroke-width='5' style='opacity: 1; opacity: 1;'></circle>
+                    <circle cx='247.5' cy='71' r='40' fill='none' stroke='#1f6feb' stroke-width='5' style='opacity: 1; opacity: 1;'></circle>
                 </g>
                 <!-- Fire icon -->
                 <g transform='translate(247.5, 19.5)' stroke-opacity='0' style='opacity: 1; opacity: 1;'>
@@ -68,7 +68,7 @@
 
                 <!-- Current Streak big number -->
                 <g transform='translate(247.5, 48)'>
-                    <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#ffa500' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='700' font-size='28px' font-style='normal' style='font-size: 28px;'>
+                    <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#1f6feb' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='700' font-size='28px' font-style='normal' style='font-size: 28px;'>
                         2
                     </text>
                 </g>
