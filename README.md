@@ -1,10 +1,10 @@
-<h1 align="center">Olá, eu sou o Erick Silva Ramos da Paz 👋</h1>
+<h1 align="center">Hi, I'm Erick Silva Ramos da Paz 👋</h1>
 
 <h3 align="center">🤖 AI Engineer & Full Stack Developer</h3>
-<p align="center">Construindo Agentes de IA, Soluções Inteligentes e Automação de Negócios</p>
+<p align="center">Building AI Agents, Intelligent Solutions and Business Automation</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📍-São_Paulo,_Brasil-informational?style=flat-square&color=0A66C2" />
+  <img src="https://img.shields.io/badge/📍-São_Paulo,_Brazil-informational?style=flat-square&color=0A66C2" />
 </p>
 
 <p align="center">
@@ -15,20 +15,20 @@
 
 ---
 
-### 🧠 Sobre mim
+### 🧠 About Me
 
-Sou Engenheiro de Inteligência Artificial e Desenvolvedor Full Stack, apaixonado por construir soluções inteligentes que unem engenharia de software, automação e IA Generativa.
+I'm an Artificial Intelligence Engineer and Full Stack Developer, passionate about building intelligent solutions that combine software engineering, automation and Generative AI.
 
-- 🤖 Atuo com Inteligência Artificial e IA Generativa
-- 🚀 Construo Agentes de IA e soluções de automação
-- 💻 Experiência com PHP, Laravel, React e JavaScript
-- 🗄️ Boa base em SQL e análise de dados
-- 🎓 Análise e Desenvolvimento de Sistemas (FAM)
-- 📌 Sempre aprendendo, construindo e inovando com IA
+- 🤖 Working with Artificial Intelligence and Generative AI
+- 🚀 Building AI Agents and automation solutions
+- 💻 Experience with PHP, Laravel, React and JavaScript
+- 🗄️ Strong background in SQL and data analysis
+- 🎓 Systems Analysis and Development (FAM)
+- 📌 Always learning, building and innovating with AI
 
 ---
 
-### 🤖 Inteligência Artificial
+### 🤖 Artificial Intelligence
 
 ![Generative AI](https://img.shields.io/badge/-Generative%20AI-8A2BE2?style=flat-square)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-8A2BE2?style=flat-square)
@@ -45,7 +45,7 @@ Sou Engenheiro de Inteligência Artificial e Desenvolvedor Full Stack, apaixonad
 
 ---
 
-### 💻 Linguagens & Frameworks
+### 💻 Languages & Frameworks
 
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
@@ -62,7 +62,7 @@ Sou Engenheiro de Inteligência Artificial e Desenvolvedor Full Stack, apaixonad
 
 ---
 
-### 🗄️ Bancos de Dados
+### 🗄️ Databases
 
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -70,7 +70,7 @@ Sou Engenheiro de Inteligência Artificial e Desenvolvedor Full Stack, apaixonad
 
 ---
 
-### 🔧 DevOps, SO & Ferramentas
+### 🔧 DevOps, OS & Tools
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -84,9 +84,9 @@ Sou Engenheiro de Inteligência Artificial e Desenvolvedor Full Stack, apaixonad
 
 ---
 
-### 🚀 Experiência Profissional
+### 🚀 Professional Experience
 
-| Empresa | Cargo |
+| Company | Role |
 |---|---|
 | **Checkout** | AI Engineer |
 | **Checkout** | Full Stack Developer |
@@ -94,24 +94,24 @@ Sou Engenheiro de Inteligência Artificial e Desenvolvedor Full Stack, apaixonad
 
 ---
 
-### ⭐ Projetos em Destaque
+### ⭐ Featured Projects
 
-- 🔍 **[Intelligent Document Validation](#)** — Sistema de validação inteligente de documentos com IA
-- 📚 **[Biblioteca IA](#)** — Plataforma de recursos e conteúdos sobre Inteligência Artificial
-- 📊 **[SuperGestão](#)** — Sistema de gestão empresarial
-- 🏢 **[DEP Company](#)** — Projeto corporativo
-- 🌐 **[Portfolio](#)** — Meu portfólio pessoal
+- 🔍 **[Intelligent Document Validation](#)** — Smart document validation system powered by AI
+- 📚 **[Biblioteca IA](#)** — Resource and content platform about Artificial Intelligence
+- 📊 **[SuperGestão](#)** — Business management system
+- 🏢 **[DEP Company](#)** — Corporate project
+- 🌐 **[Portfolio](#)** — My personal portfolio
 
-> 💡 Dica: troque os `#` pelos links reais dos repositórios para que os visitantes cliquem direto neles.
+> 💡 Tip: replace the `#` placeholders with the real repository links so visitors can click straight through.
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center"><i>⭐ Sempre aprendendo, construindo e inovando com Inteligência Artificial.</i></p>
+<p align="center"><i>⭐ Always learning, building and innovating with Artificial Intelligence.</i></p>
