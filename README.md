@@ -111,15 +111,6 @@ Showcase of projects, technologies and professional experience.
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Erickaocode&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erickaocode&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](SEU_LINKEDIN)
