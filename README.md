@@ -12,9 +12,9 @@
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/erick-silva-8579002b0/"><img src="https://img.shields.io/badge/LinkedIn-1F6FEB?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/_erickz77_/"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:ericksilva112017@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <br/>
@@ -113,15 +113,15 @@ I'm an **Artificial Intelligence Engineer** and **Full Stack Developer**, passio
   </tr>
   <tr>
     <td>📊</td>
-    <td><b><a href="#">SuperGestão</a></b><br/>Business management system</td>
+    <td><b><a href="https://github.com/Erickaocode/APP_SUPER_GESTAO">SuperGestão</a></b><br/>Business management system</td>
   </tr>
   <tr>
     <td>🏢</td>
-    <td><b><a href="#">DEP Company</a></b><br/>Corporate project</td>
+    <td><b><a href="https://github.com/Erickaocode/DEP-COMPANY">DEP Company</a></b><br/>Corporate project</td>
   </tr>
   <tr>
     <td>🌐</td>
-    <td><b><a href="#">Portfolio</a></b><br/>My personal portfolio</td>
+    <td><b><a href="https://github.com/Erickaocode/Portfolio">Portfolio</a></b><br/>My personal portfolio</td>
   </tr>
 </table>
 
@@ -132,8 +132,8 @@ I'm an **Artificial Intelligence Engineer** and **Full Stack Developer**, passio
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Erickaocode&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Erickaocode&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="42%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Erickaocode&show_icons=true&bg_color=000000&title_color=1F6FEB&icon_color=1F6FEB&text_color=c9d1d9&hide_border=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Erickaocode&layout=compact&bg_color=000000&title_color=1F6FEB&text_color=c9d1d9&hide_border=true" alt="Top Languages" width="42%" />
 </p>
 
 <p align="center">
