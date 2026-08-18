@@ -84,14 +84,6 @@ I'm an **Artificial Intelligence Engineer** and **Full Stack Developer**, passio
 
 <br/>
 
-## 🚀 Professional Experience
-
-| Company | Role |
-|:--|:--|
-| **Checkout** | AI Engineer |
-| **Checkout** | Full Stack Developer |
-| **Intuo Software** | Data Analyst / Support |
-
 <br/>
 
 ## ⭐ Featured Projects
