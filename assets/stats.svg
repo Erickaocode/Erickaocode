@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" width="1000" height="300"
+     role="img" aria-label="Atividade no GitHub: 76 contribuicoes, streak atual de 2 dias">
+  <title>GitHub activity</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0A0E14"/><stop offset="1" stop-color="#05070A"/>
+    </linearGradient>
+    <pattern id="raster" width="4" height="3" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1" fill="#58C4FF"/>
+    </pattern>
+  </defs>
+
+  <rect x="0.75" y="0.75" width="998.5" height="298.5" rx="14"
+        fill="url(#bg)" stroke="#1F6FEB" stroke-opacity="0.26" stroke-width="1.5"/>
+  <rect x="46" y="24" width="908" height="252" fill="url(#raster)" opacity="0.045"/>
+  <path d="M 49 15 H 29 V 35" fill="none" stroke="#1F6FEB" stroke-width="2" stroke-linecap="square"/>
+  <path d="M 951 15 H 971 V 35" fill="none" stroke="#1F6FEB" stroke-width="2" stroke-linecap="square"/>
+  <path d="M 49 285 H 29 V 265" fill="none" stroke="#1F6FEB" stroke-width="2" stroke-linecap="square"/>
+  <path d="M 951 285 H 971 V 265" fill="none" stroke="#1F6FEB" stroke-width="2" stroke-linecap="square"/>
+
+  <text x="46" y="42" font-family="ui-monospace, SFMono-Regular, &#34;SF Mono&#34;, Menlo, Consolas, &#34;Liberation Mono&#34;, monospace" font-size="10" letter-spacing="3"
+        fill="#1F6FEB" font-weight="700">ACTIVITY</text>
+  <text x="954" y="42" font-family="ui-monospace, SFMono-Regular, &#34;SF Mono&#34;, Menlo, Consolas, &#34;Liberation Mono&#34;, monospace" font-size="10" letter-spacing="1.4"
+        text-anchor="end" fill="#6E7681">2025-01-07 &#8594; 2026-08-18</text>
+  <rect x="46" y="54" width="908" height="1.4" fill="#1F6FEB" fill-opacity="0.42"/>
+
+  <text x="46" y="126" font-family="ui-monospace, SFMono-Regular, &#34;SF Mono&#34;, Menlo, Consolas, &#34;Liberation Mono&#34;, monospace" font-size="40" font-weight="700" fill="#F0F6FC">76</text><text x="46" y="150" font-family="ui-monospace, SFMono-Regular, &#34;SF Mono&#34;, Menlo, Consolas, &#34;Liberation Mono&#34;, monospace" font-size="9.5" letter-spacing="1.9" fill="#6E7681">TOTAL</text><text x="46" y="163" font-family="ui-monospace, SFMono-Regular, &#34;SF Mono&#34;, Menlo, Consolas, &#34;Liberation Mono&#34;, monospace" font-size="9.5" letter-spacing="1.9" fill="#6E7681">CONTRIBUTIONS</text>
+  <text x="236" y="126" font-family="ui-monospace, SFMono-Regular, &#34;SF Mono&#34;, Menlo, Consolas, &#34;Liberation Mono&#34;, monospace" font-size="40" font-weight="700" fill="#F0F6FC">2</text><text x="236" y="150" font-family="ui-monospace, SFMono-Regular, &#34;SF Mono&#34;, Menlo, Consolas, &#34;Liberation Mono&#34;, monospace" font-size="9.5" letter-spacing="1.9" fill="#6E7681">CURRENT</text><text x="236" y="163" font-family="ui-monospace, SFMono-Regular, &#34;SF Mono&#34;, Menlo, Consolas, &#34;Liberation Mono&#34;, monospace" font-size="9.5" letter-spacing="1.9" fill="#6E7681">STREAK</text>
+  <text x="396" y="126" font-family="ui-monospace, SFMono-Regular, &#34;SF Mono&#34;, Menlo, Consolas, &#34;Liberation Mono&#34;, monospace" font-size="40" font-weight="700" fill="#F0F6FC">4</text><text x="396" y="150" font-family="ui-monospace, SFMono-Regular, &#34;SF Mono&#34;, Menlo, Consolas, &#34;Liberation Mono&#34;, monospace" font-size="9.5" letter-spacing="1.9" fill="#6E7681">LONGEST</text><text x="396" y="163" font-family="ui-monospace, SFMono-Regular, &#34;SF Mono&#34;, Menlo, Consolas, &#34;Liberation Mono&#34;, monospace" font-size="9.5" letter-spacing="1.9" fill="#6E7681">STREAK</text>
+  <text x="46" y="205" font-family="ui-monospace, SFMono-Regular, &#34;SF Mono&#34;, Menlo, Consolas, &#34;Liberation Mono&#34;, monospace" font-size="12" fill="#7D8590">47 commits &#183; 3 PRs &#183; 12 repos &#183; 1 star</text>
+
+  <rect x="520" y="76" width="1.2" height="150" fill="#1F6FEB" fill-opacity="0.30"/>
+
+  <text x="560" y="100" font-family="ui-monospace, SFMono-Regular, &#34;SF Mono&#34;, Menlo, Consolas, &#34;Liberation Mono&#34;, monospace" font-size="10" letter-spacing="3"
+        fill="#1F6FEB" font-weight="700">LANGUAGES</text>
+  <rect x="560" y="110" width="394" height="1.2" fill="#1F6FEB" fill-opacity="0.30"/>
+  <text x="560" y="139" font-family="ui-monospace, SFMono-Regular, &#34;SF Mono&#34;, Menlo, Consolas, &#34;Liberation Mono&#34;, monospace" font-size="12" fill="#C9D1D9">HTML</text><rect x="700" y="131" width="182" height="8" rx="4" fill="#1F6FEB" fill-opacity="0.10"/><rect x="700" y="131" width="155.4" height="8" rx="4" fill="#58C4FF"/><text x="954" y="139" font-family="ui-monospace, SFMono-Regular, &#34;SF Mono&#34;, Menlo, Consolas, &#34;Liberation Mono&#34;, monospace" font-size="11.5" text-anchor="end" fill="#7D8590">85.4%</text><text x="560" y="164" font-family="ui-monospace, SFMono-Regular, &#34;SF Mono&#34;, Menlo, Consolas, &#34;Liberation Mono&#34;, monospace" font-size="12" fill="#C9D1D9">TypeScript</text><rect x="700" y="156" width="182" height="8" rx="4" fill="#1F6FEB" fill-opacity="0.10"/><rect x="700" y="156" width="22.4" height="8" rx="4" fill="#3B95F0"/><text x="954" y="164" font-family="ui-monospace, SFMono-Regular, &#34;SF Mono&#34;, Menlo, Consolas, &#34;Liberation Mono&#34;, monospace" font-size="11.5" text-anchor="end" fill="#7D8590">12.3%</text><text x="560" y="189" font-family="ui-monospace, SFMono-Regular, &#34;SF Mono&#34;, Menlo, Consolas, &#34;Liberation Mono&#34;, monospace" font-size="12" fill="#C9D1D9">PHP</text><rect x="700" y="181" width="182" height="8" rx="4" fill="#1F6FEB" fill-opacity="0.10"/><rect x="700" y="181" width="2.7" height="8" rx="4" fill="#1F6FEB"/><text x="954" y="189" font-family="ui-monospace, SFMono-Regular, &#34;SF Mono&#34;, Menlo, Consolas, &#34;Liberation Mono&#34;, monospace" font-size="11.5" text-anchor="end" fill="#7D8590">1.5%</text><text x="560" y="214" font-family="ui-monospace, SFMono-Regular, &#34;SF Mono&#34;, Menlo, Consolas, &#34;Liberation Mono&#34;, monospace" font-size="12" fill="#C9D1D9">CSS</text><rect x="700" y="206" width="182" height="8" rx="4" fill="#1F6FEB" fill-opacity="0.10"/><rect x="700" y="206" width="2.5" height="8" rx="4" fill="#1A55B8"/><text x="954" y="214" font-family="ui-monospace, SFMono-Regular, &#34;SF Mono&#34;, Menlo, Consolas, &#34;Liberation Mono&#34;, monospace" font-size="11.5" text-anchor="end" fill="#7D8590">0.5%</text><text x="560" y="239" font-family="ui-monospace, SFMono-Regular, &#34;SF Mono&#34;, Menlo, Consolas, &#34;Liberation Mono&#34;, monospace" font-size="12" fill="#C9D1D9">JavaScript</text><rect x="700" y="231" width="182" height="8" rx="4" fill="#1F6FEB" fill-opacity="0.10"/><rect x="700" y="231" width="2.5" height="8" rx="4" fill="#173F85"/><text x="954" y="239" font-family="ui-monospace, SFMono-Regular, &#34;SF Mono&#34;, Menlo, Consolas, &#34;Liberation Mono&#34;, monospace" font-size="11.5" text-anchor="end" fill="#7D8590">0.3%</text>
+
+  <rect x="46" y="248" width="908" height="1.2" fill="#1F6FEB" fill-opacity="0.22"/>
+  <text x="46" y="270" font-family="ui-monospace, SFMono-Regular, &#34;SF Mono&#34;, Menlo, Consolas, &#34;Liberation Mono&#34;, monospace" font-size="10.5"
+        fill="#7D8590">&#62; rebuilt daily by GitHub Actions &#183; last run 2026-08-18</text>
+</svg>

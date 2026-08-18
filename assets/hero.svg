@@ -73,9 +73,9 @@
       <rect x="288" y="167" width="430" height="2" fill="#1F6FEB"/>
 
       <text x="288" y="197" font-family="ui-monospace, SFMono-Regular, &#34;SF Mono&#34;, Menlo, Consolas, &#34;Liberation Mono&#34;, monospace" font-size="15.5"
-            fill="#58A6FF">AI Engineer &#183; Full Stack Developer</text>
+            fill="#58A6FF">AI Engineer &#183; Software Engineer</text>
 
-      <text x="288" y="233" font-family="ui-monospace, SFMono-Regular, &#34;SF Mono&#34;, Menlo, Consolas, &#34;Liberation Mono&#34;, monospace" font-size="13" fill="#7D8590">&#62; AI agents &#183; automation &#183; Laravel &#183; React<tspan
+      <text x="288" y="233" font-family="ui-monospace, SFMono-Regular, &#34;SF Mono&#34;, Menlo, Consolas, &#34;Liberation Mono&#34;, monospace" font-size="13" fill="#7D8590">&#62; Laravel &#183; n8n automation &#183; AI agents &#183; MySQL<tspan
           fill="#58C4FF" font-weight="700" opacity="0">_<animate
             attributeName="opacity" dur="9s" repeatCount="indefinite" calcMode="discrete"
             keyTimes="0;0.30;0.38;0.44;0.50;0.56;0.62;0.68;0.74;0.80;0.86;1"
